@@ -15,6 +15,7 @@ Plugin 'scrooloose/syntastic'
 Plugin 'ervandew/supertab'
 Plugin 'shougo/neocomplcache.vim'
 Plugin 'shougo/neosnippet'
+Plugin 'Valloric/YouCompleteMe'
 Bundle 'uarun/vim-protobuf'
 
 " All of your Plugins must be added before the following line
